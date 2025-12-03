@@ -1,14 +1,10 @@
-Sure Malak ❤️
-Here is the full **README.md in English**, clean, professional, and ready to upload on GitHub — including the folder tree and a mention of the **gold_layer** folder where your cleaned data is stored.
-
----
 
 # 📘 **EDA SQL Project – Customer & Product Sales Analysis**
 
 This project contains a complete **Exploratory Data Analysis (EDA)** using **pure SQL**, without performing any data cleaning inside the project.
 All data was pre-cleaned and uploaded in a separate folder:
 
-👉 **[`gold_layer`](../gold_layer/)**
+👉 **[gold_layer Repository](https://github.com/malak2304/SQL_DWH_Project/blob/main/scripts/gold/ddl_gold.sql)  **
 *This is the main data source used in all SQL analysis files.*
 
 ---
@@ -18,7 +14,6 @@ All data was pre-cleaned and uploaded in a separate folder:
 ```
 EDA-project/
 │
-├── gold_layer/                 # Cleaned and transformed data source
 │
 ├── sql/
 │   ├── 01_database_exploration.sql
